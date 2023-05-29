@@ -64,7 +64,7 @@ vectorwa.flatten() ==> any dimensional array convert into 1D
 -------------------------------------------------
 PANDAS STARTS HERE
 
-datagrame(2D) = col of series(1D)
+dataFrame(2D) = collection of series(1D)
 
 Series k contents mutable hote hn
 
@@ -78,13 +78,14 @@ eg: help(df) ==> each function of dataframe will be shown
 
 https://mathsisfun.com/
 
-data analytics
-1. Descriptive ana (what happend) vvi
-2. Predictive ana (what will happen) vvi
-3. Diafnostic 
-4. Prescriptive
+Data mining: converting data into meaningful information
 
+Types of Data analytics
+1. Descriptive analytics (what has happened) vvi
+2. Predictive analytics (what will happen) vvi
+3. Diafnostic analytics
+4. Prescriptive analytics
 
-
+median is more important than mean because it tells where the crowd is going
 
 
