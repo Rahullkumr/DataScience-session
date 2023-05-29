@@ -2,7 +2,8 @@
 
 ## Day1: 29/05/2023
 
-What required
+What is required?
+
 same type of data(homogeneous and contiguous data) is stored in python using "Numerical Python(NumPy)" package.
 Array
 series
