@@ -88,5 +88,6 @@ Types of Data analytics
 4. Prescriptive analytics
 
 median is more important than mean because it tells where the crowd is going
+<img src="dynamic_hr.gif">
 
 
