@@ -76,7 +76,13 @@ df.T ==> Transpose(convert rows to columns & columns to rows)
 help(object ka naam)
 eg: help(df) ==> each function of dataframe will be shown
 
+https://mathsisfun.com/
 
+data analytics
+1. Descriptive ana (what happend) vvi
+2. Predictive ana (what will happen) vvi
+3. Diafnostic 
+4. Prescriptive
 
 
 
