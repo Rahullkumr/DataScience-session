@@ -155,4 +155,17 @@ df['age'] = df['age'].fillna(df['age'].median())
 
 x.to_csv('output.csv', index=False) ==> export to csv file in the current working directory
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="dynamic_hr.gif">
