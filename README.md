@@ -90,4 +90,69 @@ Types of Data analytics
 median is more important than mean because it tells where the crowd is going
 <img src="dynamic_hr.gif">
 
+## Day2: 30/05/2023
 
+mode = most frequent value in an array
+
+list from 1 to 90 will have same mean and median
+Dispersion Types
+-----------------
+1. Absolute Deviation from Mean
+2. Variance
+3. a
+4. a
+5. a
+
+Mean Absolute Deviation
+
+variance
+is a measure of how far indivdual(numeric) values in a dataset are from the mean or average value.
+used to quantify spread or dispersion.
+
+Three steps of building a Dataset
+1. Collection
+2. PreProcessin g
+3. Annotation
+
+Data Set resources
+1. https://data.gov.in/
+2. https://archive.ics.uci.edu/ml/index.php
+3. https://datasetsearch.research.google.com/
+
+Structured dataset best file format ==> what and why?
+
+let's collect data : https://mitu.co.in/survey
+
+df.iloc[2:9, 3:8]
+display rows 2 to 8 and columns 3 to 7
+
+df.iloc[:9, 3:8]
+display rows 0 to 8 and columns 3 to 7
+
+df.iloc[:9, 3:]
+display rows 0 to 8 and columns 3 to last
+
+df.iloc[2:9, 2]
+display rows 2 to 8 and 2 columns only
+
+df.iloc[5, :]
+display 5 rows and all columns
+
+df.iloc[5, :] vs df.loc[:, ['name', 'gender', 'sgpa']]
+
+df.drop(4) ==> skips row 4
+df.drop([3,5,7,8,9]) ==> 3,5,7,8,9 rows are skipped
+
+df.drop('टाइमस्टँप', axis=1, inplace=True)
+==> drops 'टाइमस्टँप' column and inplace changes the content
+
+df['name'].str.title() ==> changes first letter to capital
+
+df.isnull().sum() ==> gives how many rows have null values
+
+df['age'] = df['age'].fillna(df['age'].median())
+==> used to fill null values
+
+x.to_csv('output.csv', index=False) ==> export to csv file in the current working directory
+
+<img src="dynamic_hr.gif">
