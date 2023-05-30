@@ -92,9 +92,9 @@ median is more important than mean because it tells where the crowd is going
 
 ## Day2: 30/05/2023
 
-mode = most frequent value in an array
-
+mode = most frequent value in an array <br>
 list from 1 to 90 will have same mean and median
+
 Dispersion Types
 -----------------
 1. Absolute Deviation from Mean
@@ -119,7 +119,14 @@ Data Set resources
 2. https://archive.ics.uci.edu/ml/index.php
 3. https://datasetsearch.research.google.com/
 
-Structured dataset best file format ==> what and why?
+Structured dataset best file format ==> what and why?<br>
+```diff
++ csv
+
++ It is a simple and universal format that can be easily read and written by many programs and tools, such as Python, R, SQL, and even text editors. 
++ CSV files are also lightweight and compact, which means they take up less space and can be transferred faster than Excel files.
++ CSV files are plain text, which means they are less prone to corruption and can be easily inspected and modified.
+```
 
 let's collect data : https://mitu.co.in/survey
 
