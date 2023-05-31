@@ -161,18 +161,12 @@ df['age'] = df['age'].fillna(df['age'].median())
 ==> used to fill null values
 
 x.to_csv('output.csv', index=False) ==> export to csv file in the current working directory
+<img src="dynamic_hr.gif">
+## Day3: 31/05/2023
 
-
-
-
-
-
-
-
-
-
-
+### Visualization of Data
 
 
 
 <img src="dynamic_hr.gif">
+
