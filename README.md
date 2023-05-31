@@ -165,8 +165,98 @@ x.to_csv('output.csv', index=False) ==> export to csv file in the current workin
 ## Day3: 31/05/2023
 
 ### Visualization of Data
+Descriptive analysis(only analysis)
+
+import matplotlib.pyplot as plt
+import numpy as np
+........
+plt.plot(x, y)
+
+plt.xticks(range(0,81,10))
+==> range of x axis starts from 0 to 100 with difference 10
+
+aspect ratio of pc = 16:9
+
+Types of plot
+1. Scatter plot (only dots visible)
+2. Bar (vertical line)
+3. Barh (Horizontal bars)
+4. Pie (Pie chart) = when share of a whole is required
+5. Histogram
+6. Boxplot
+
+------------
+
+Data Science life cycle
+1. business understanding
+2. data mining
+3. data cleaning
+4. Data exploration
+5. Feature Engineering 
+6. Predictive modeling
+7. Data visualization
+
+Artificial Intelligence:
+through which machines can mimic human behaviour
+computer can see ==> copmuter vision
+computer can understand ==> NLP
+
+who is the father of computer? what he created(mechanical computer) and when?
+Alan Turing movie: The Imitation Game
+father of modern computing(AI) = Alan Turing
+
+
+compute vs calculate?
+both are synonym
+```diff
++ Compute: 
++ Calculate: 
+```
+statical modeling in old days and these days it's called Machine learning:
+Explain ML.
+```diff
+ML is to identify pattern and use it
+```
+Halley's comet => seen at 76 years interval
+
+Applications of ML
+1. predict the outcomes of elections
+2. identify and filter spam messages from email
+3. foresee criminal activity
+4. targeted advertising
+5. auto pilot
+
+Practical implementation of ML
+x = 2, y = 1, z = ?
+==> 2x + y
+
+Types of ML
+1. Supervised: require input and output (1 classification and 2 Regression)
+2. Unsupervised: only require input(1 cluster and 2 anomaly ----)
+3. Reinforcement Learning (advanced ML)
+
+
+Quote: A breakthrough in ml would be worth ten microsofts(Bill Gates)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 <img src="dynamic_hr.gif">
-
