@@ -236,27 +236,7 @@ Types of ML
 3. Reinforcement Learning (advanced ML)
 
 
-Quote: A breakthrough in ml would be worth ten microsofts(Bill Gates)
+Quote: A breakthrough in ML would be worth ten microsofts(Bill Gates)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Linear Regression
 <img src="dynamic_hr.gif">
