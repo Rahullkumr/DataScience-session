@@ -240,3 +240,61 @@ Quote: A breakthrough in ML would be worth ten microsofts(Bill Gates)
 
 Linear Regression
 <img src="dynamic_hr.gif">
+## Day4: 1/06/2023
+
+Multi variant Regression
+Multiple linear Regression
+co-relation
+
+df.corrwith(df['mpg']) ==> co-relation against mpg i.e millage/gallon
+
+classification starts here
+eg - mail is spam or not
+
+Types of classification
+1. Binary classif
+2. Multi class classi
+3. Decission tree
+4. Probability based 
+
+Decision tree (simplest algorithm)
+eg - hollywood movie prediction whether it's going to be hit or not
+
+when co relation is not found then we can use decision tree
+
+[scikit-learn.org ](https://scikit-learn.org/stable/)==> sir learnt from this website 
+
+Probabilistic model
+Probability ==> Theoritical(eg coin toss) and Practical(eg ipl match) probability
+
+Real life implementation of BAYE'S THEOREM(used for conditional probability)
+
+P(defective|mach2) = [p(mach2|defect) * p(defect)] / p(mach2)
+
+Public Review: 
+https://mitu.co.in/review
+
+Private Feedback:
+https://mitu.co.in/feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="dynamic_hr.gif">
