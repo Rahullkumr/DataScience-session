@@ -252,15 +252,15 @@ classification starts here
 eg - mail is spam or not
 
 Types of classification
-1. Binary classif
-2. Multi class classi
-3. Decission tree
-4. Probability based 
+1. Binary classification
+2. Multi class classification
+3. Decission tree classification
+4. Probability based classification
 
 Decision tree (simplest algorithm)
 eg - hollywood movie prediction whether it's going to be hit or not
 
-when co relation is not found then we can use decision tree
+when co-relation is not found then we can use decision tree
 
 [scikit-learn.org ](https://scikit-learn.org/stable/)==> sir learnt from this website 
 
@@ -276,25 +276,5 @@ https://mitu.co.in/review
 
 Private Feedback:
 https://mitu.co.in/feedback
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img src="dynamic_hr.gif">
