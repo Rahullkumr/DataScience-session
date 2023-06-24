@@ -111,7 +111,7 @@ used to quantify spread or dispersion.
 
 Three steps of building a Dataset
 1. Collection
-2. PreProcessin g
+2. PreProcessing
 3. Annotation
 
 Data Set resources
