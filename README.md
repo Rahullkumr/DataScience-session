@@ -14,36 +14,49 @@ install Jupyter Notebook(Anaconda)
 create new file
 rename untitled to Day-1B
 ------
+
 first program
 print('Hello world')
 run ==> shift + enter
 the file is auto Saved
 
 select mode and edit mode
+
 in select mode, 
+
 shift+enter ==> new input below current field
+
 a ==> input field above the current input field
+
 b ==> below
+
 x ==> delete the selected input
 
 ### Array Operation ==> m (to make it heading)
 
 Anaconda contains numpy by default
-
 --------
+
 int(python) ==> any length of data can be stored, no limit
+
 num.shape ==>>> kitna dimension ka hai wo btata hai
+
 num = np.array([56,12,34,87,19,52,63,27])
+
 num.shape ===> (8,)
 
 ascii(1 byte for each) is limited so they invented uni-code (2 byte for each symbol)
+
 character in c ==> 1 byte
+
 char in java ==> 2 byte
+
 because java supports UNICODE but c supports ascii
 
-google cloud inut tools try (search in google)
+google cloud input tools try (search in google)
 
 list * 2 ==> list extends and appends the same list again
+
 array * 2 ==> multiplies each element with two
 
 list.range(10) ==> list create krega
@@ -56,6 +69,7 @@ np.ones(13) ==> creates array of 1s, with 13 elements
 num.argmax() ==> index of maximum element
 
 np.linspace(1,10,11) ==> PATA KRO KYA HAI
+
 scalar[1], vector[1,2,4], matrix[][], tensor[][]
 
 matrix is a collection of vectors of equal length
